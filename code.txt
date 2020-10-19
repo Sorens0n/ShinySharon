@@ -1,0 +1,17 @@
+
+# WIP decimal-French translator
+print("This translator is somewhat limited at the moment, but expect more in the future!")
+a = rand(0, 2)
+print("a=", a)
+IF a == 0
+    print("zéro")
+ELIF a == 1
+    print("une")
+ELSE # a == 2
+    print("deux")
+
+
+
+
+
+
